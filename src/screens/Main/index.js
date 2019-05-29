@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <img src={require("../../static/smoking.JPG")} alt="한번만 봐달라고요" />
       <br />
       한번만 봐달라고요
